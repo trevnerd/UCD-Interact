@@ -1,0 +1,7 @@
+.venv
+.vscode
+subject_codes
+UCD-env
+Outputs
+__pycache__
+manual_test.py
